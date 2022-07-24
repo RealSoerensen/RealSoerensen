@@ -40,27 +40,27 @@ After summer I'm starting as a CS student at <a href="https://www.ucn.dk/">UCN</
 </tbody>
 </table>
 
-- **Web Development**
+**Web Development**
 <table>
 <tbody>
  <tr>
-<td width="33%">
+<td width="25%" align="center">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> 
 </td>
 
-<td width="33%">
-<img height=70px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> 
+<td width="25%" align="center">
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> 
 </td>
 
-<td width="33%">
+<td width="25%" align="center">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> 
 </td>
 
 
 </tr>
-   <tr>
-   <td width="33%">
-<img height=60px src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"> 
+<tr>
+ <td width="25%" align="center">
+ <img height=60px src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"> 
 </td>
    </tr>
 
@@ -70,16 +70,22 @@ After summer I'm starting as a CS student at <a href="https://www.ucn.dk/">UCN</
 <hr>
 
 ## Stats :bar_chart:
-  <summary><b>GitHub Profile Stats</b></summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RealSoerensen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RealSoerensen&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealSoerensen&langs_count=5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+<b>GitHub Profile Stats:</b>
+<br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RealSoerensen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RealSoerensen&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealSoerensen&langs_count=5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 <hr>
 
 ## Connect with me :smiley:
 
 <p>
-<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/GitHub-RealSoerensen-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/emmadi-divya-srujana-19baa0182/"><img src="https://img.shields.io/badge/LinkedIn-Patrick Sørensen-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://github.com/RealSoerensen"><img src="https://img.shields.io/badge/GitHub-RealSoerensen-black?logo=github&style=flat-square"/></a>
+ <br>
+<a href="https://www.linkedin.com/in/realsoerensen/"><img src="https://img.shields.io/badge/LinkedIn-Patrick Sørensen-blue?logo=linkedin&style=flat-square"></a>
+ <br>
 <a href="mailto:patricklykke@live.dk"><img src="https://img.shields.io/badge/Email-patricklykke@live.dk-blue?logo=microsoft-outlook&style=flat-square"/></a>
-<a href="https://twitter.com/divya_emmadi"><img src="https://img.shields.io/badge/Twitter-RealSoerensen-blue?logo=twitter&style=flat-square"/></a>
+ <br>
+<a href="https://twitter.com/RealSoerensen"><img src="https://img.shields.io/badge/Twitter-RealSoerensen-blue?logo=twitter&style=flat-square"/></a>
 </p>
+</div>
