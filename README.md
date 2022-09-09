@@ -24,17 +24,18 @@ After summer I'm starting as a CS student at <a href="https://www.ucn.dk/">UCN</
 <table>
 <tbody>
  <tr>
-<td width="33%">
+<td width="25%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> 
 </td>
-<td width="33%">
+<td width="25%">
+<img height=60px src="https://www.svgrepo.com/show/303388/java-4-logo.svg"> 
+</td>
+<td width="25%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> 
 </td>
-<td width="33%">
+<td width="25%">
 <img height=60px src="https://cdn.cdnlogo.com/logos/c/27/c.svg"> 
 </td>
-
-
 </tr>
 
 </tbody>
@@ -43,7 +44,7 @@ After summer I'm starting as a CS student at <a href="https://www.ucn.dk/">UCN</
 **Web Development**
 <table>
 <tbody>
- <tr>
+<tr>
 <td width="25%" align="center">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> 
 </td>
@@ -56,13 +57,10 @@ After summer I'm starting as a CS student at <a href="https://www.ucn.dk/">UCN</
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"> 
 </td>
 
-
-</tr>
-<tr>
- <td width="25%" align="center">
- <img height=60px src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"> 
+<td width="25%" align="center">
+<img height=60px src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"> 
 </td>
-   </tr>
+</tr>
 
 </tbody>
 </table>
