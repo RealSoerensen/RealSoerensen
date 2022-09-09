@@ -5,9 +5,7 @@ Hi , I'm Patrick Sørensen <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 <p>
 Hello, I'm Patrick "Soerensen" Sørensen. I'm a 21 year old guy from Denmark.
 <br>
-I first started taking interest in coding when I was around 15 years old but didn't really code till I became 20 years old.
-<br>
-After summer I'm starting as a CS student at <a href="https://www.ucn.dk/">UCN</a>
+I'm currently a CS student at <a href="https://www.ucn.dk/">UCN</a>
 </p>
 
 
