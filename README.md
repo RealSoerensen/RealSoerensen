@@ -3,7 +3,7 @@
 Hi , I'm Patrick Sørensen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p>
-Hello, I'm Patrick "Soerensen" Sørensen. I'm a 21 year old guy from Denmark.
+Hello, I'm Patrick "Soerensen" Sørensen. I'm a 22 year old guy from Denmark.
 <br>
 I'm currently a CS student at <a href="https://www.ucn.dk/">UCN</a>
 </p>
