@@ -55,11 +55,7 @@ I'm currently working as a Full-Stack Delevoper in a Consulting firm
 ## Connect with me :smiley:
 
 <p>
-<a href="https://github.com/RealSoerensen"><img src="https://img.shields.io/badge/GitHub-RealSoerensen-black?logo=github&style=flat-square"/></a>
- <br>
 <a href="https://www.linkedin.com/in/realsoerensen/"><img src="https://img.shields.io/badge/LinkedIn-Patrick Sørensen-blue?logo=linkedin&style=flat-square"></a>
- <br>
-<a href="mailto:patricklykke@live.dk"><img src="https://img.shields.io/badge/Email-patricklykke@live.dk-blue?logo=microsoft-outlook&style=flat-square"/></a>
  <br>
 <a href="https://twitter.com/RealSoerensen"><img src="https://img.shields.io/badge/Twitter-RealSoerensen-blue?logo=twitter&style=flat-square"/></a>
 </p>
