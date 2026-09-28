@@ -29,7 +29,7 @@ I'm currently working as a Full-Stack Delevoper in a Consulting firm
   <img height=60px src="https://www.svgrepo.com/show/303388/java-4-logo.svg"> 
  </td>
  <td width="20%">
-  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> 
+  <img height=60px src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"> 
  </td>
  <td width="20%">
   <img height=60px src="https://cdn.cdnlogo.com/logos/c/27/c.svg"> 
@@ -47,10 +47,9 @@ I'm currently working as a Full-Stack Delevoper in a Consulting firm
 
 ## Stats :bar_chart:
 <b>GitHub Profile Stats:</b>
-<br></br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RealSoerensen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RealSoerensen&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealSoerensen&show_icons=true&locale=en&layout=compact&theme=algolia" alt="RealSoerensen" height="192px"/>
+</br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RealSoerensen's Github Stats" src="https://github-stats-extended.vercel.app/api?username=RealSoerensen" height="192px"/></a>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RealSoerensen" alt="RealSoerensen" height="192px"/>
 <hr>
 
 ## Connect with me :smiley:
